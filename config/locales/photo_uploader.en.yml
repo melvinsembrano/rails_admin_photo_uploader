@@ -1,0 +1,11 @@
+
+en:
+  admin:
+    actions:
+      photo_uploader:
+        title: "Photos"
+        menu: "Photos"
+        breadcrumb: "Photos"
+        link: "Photos"
+        bulk_link: "Photo Uploader selected %{model_label_plural}"
+        done: "Photos Uploaded"
